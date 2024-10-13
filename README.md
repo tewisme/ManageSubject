@@ -1,7 +1,7 @@
 Hello Guys.
 This is my first Application use C++ and Makefile.
 
-If use wanna run this:
+If you wanna run this:
 
 Step 1: Install make and lastest g++
 
